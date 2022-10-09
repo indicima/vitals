@@ -2,14 +2,16 @@ owner: indicima
 repo: vitals.indicima.ca
 
 sites:
-  - name: Indicima
+  - name: Indicima.ca
     url: https://indicima.ca
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Indicima® Vitals™
+    url: https://vitals.indicima.ca
+  - name: Indicima® Swift™
+    check: "tcp-ping"
+    url: swift.indicima.ca
+    port: 993
+  - name: 6d7945e2f00aa5093dd1f2d25dc19421
+    url: $6d7945e2f00aa5093dd1f2d25dc19421
 
 status-website:
   cname: vitals.indicima.ca
