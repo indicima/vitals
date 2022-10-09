@@ -2,7 +2,7 @@ owner: indicima
 repo: vitals.indicima.ca
 
 sites:
-  - name: Indicima.ca
+  - name: Indicima.com
     url: https://indicima.ca
   - name: Indicima® Vitals™
     url: https://vitals.indicima.ca
