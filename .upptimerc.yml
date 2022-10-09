@@ -10,7 +10,7 @@ sites:
     check: "tcp-ping"
     url: swift.indicima.ca
     port: 993
-  - name: 6d7945e2f00aa5093dd1f2d25dc19421
+  - name: Vitals User
     url: $IVC6d7945e2f00aa5093dd1f2d25dc19421
 
 status-website:
