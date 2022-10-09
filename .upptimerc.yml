@@ -11,7 +11,7 @@ sites:
     url: swift.indicima.ca
     port: 993
   - name: 6d7945e2f00aa5093dd1f2d25dc19421
-    url: $6d7945e2f00aa5093dd1f2d25dc19421
+    url: $IVC6d7945e2f00aa5093dd1f2d25dc19421
 
 status-website:
   cname: vitals.indicima.ca
