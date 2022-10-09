@@ -15,7 +15,7 @@ sites:
 
 status-website:
   cname: vitals.indicima.ca
-  #baseUrl: /vitals
+  baseUrl: /vitals
   logoUrl: https://indicima.ca/wp-content/uploads/2022/09/logo-multi-medium.png
   name: Indicima Vitals
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
