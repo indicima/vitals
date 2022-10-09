@@ -15,7 +15,6 @@ sites:
 
 status-website:
   cname: vitals.indicima.ca
-  baseUrl: /vitals.indicima.ca
   logoUrl: https://indicima.ca/wp-content/uploads/2022/09/logo-multi-medium.png
   name: Indicima Vitals
   introTitle: "Indicima Vitals"
