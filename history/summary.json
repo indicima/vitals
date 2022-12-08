@@ -4,7 +4,7 @@
     "url": "https://indicima.ca",
     "icon": "https://icons.duckduckgo.com/ip3/indicima.ca.ico",
     "slug": "indicima-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 215,
     "timeDay": 136,
-    "timeWeek": 74,
+    "timeWeek": 75,
     "timeMonth": 153,
     "timeYear": 215,
     "dailyMinutesDown": {}
